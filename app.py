@@ -14,6 +14,7 @@
 # limitations under the License.
 #
 # This is a small update to force a rebuild
+# This is a second comment
 
 from maxfw.core import MAXApp
 from api import ModelMetadataAPI, ModelLabelsAPI, ModelPredictAPI

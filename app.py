@@ -13,6 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+# This is a small update to force a rebuild
 
 from maxfw.core import MAXApp
 from api import ModelMetadataAPI, ModelLabelsAPI, ModelPredictAPI
